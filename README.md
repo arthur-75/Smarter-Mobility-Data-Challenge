@@ -1,6 +1,7 @@
 # Smarter-Mobility-Data-Challenge
 **Author**\
 Arthur Satouf
+
 (A competition that I won)
 https://codalab.lisn.upsaclay.fr/competitions/7192
 

@@ -5,6 +5,8 @@ Arthur Satouf
 (Link to the competition)
 https://codalab.lisn.upsaclay.fr/competitions/7192
 
+![image](https://github.com/arthur-75/Smarter-Mobility-Data-Challenge/assets/25811960/083577c5-b82e-4e8b-a7ca-d98a6499dc4e)
+
 ## Getting started
 Below is the structure and scripts used in the challange:
 

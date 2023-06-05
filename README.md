@@ -5,7 +5,6 @@ Arthur Satouf
 (Link to the competition)
 https://codalab.lisn.upsaclay.fr/competitions/7192
 
-![image](https://github.com/arthur-75/Smarter-Mobility-Data-Challenge/assets/25811960/083577c5-b82e-4e8b-a7ca-d98a6499dc4e)
 
 ## Getting started
 Below is the structure and scripts used in the challange:
@@ -48,3 +47,8 @@ Below is the structure and scripts used in the challange:
 - Clone the project.
 - Open Terminal.
 - Insert ```python main.py``` and wait until it finish to gererat data please note that it would take (15 to 20 min).
+
+The result of the competition 
+
+![image](https://github.com/arthur-75/Smarter-Mobility-Data-Challenge/assets/25811960/083577c5-b82e-4e8b-a7ca-d98a6499dc4e)
+

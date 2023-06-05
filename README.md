@@ -2,7 +2,7 @@
 **Author**\
 Arthur Satouf
 
-(A competition that I won)
+(Link to the competition)
 https://codalab.lisn.upsaclay.fr/competitions/7192
 
 ## Getting started
